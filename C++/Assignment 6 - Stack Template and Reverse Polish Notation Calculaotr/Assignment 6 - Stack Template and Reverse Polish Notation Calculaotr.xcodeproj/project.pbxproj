@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		197951C1209B297200E6DF89 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 197951C0209B297200E6DF89 /* main.cpp */; };
+		197951CC209C665000E6DF89 /* demo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 197951CA209C665000E6DF89 /* demo.cpp */; };
+		197951CF209C794600E6DF89 /* Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 197951CD209C794600E6DF89 /* Stack.cpp */; };
+		197951D2209C7BA300E6DF89 /* TestDrivers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 197951D0209C7BA300E6DF89 /* TestDrivers.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		197951BB209B297200E6DF89 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		197951BD209B297200E6DF89 /* Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr"; sourceTree = BUILT_PRODUCTS_DIR; };
+		197951C0209B297200E6DF89 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		197951CA209C665000E6DF89 /* demo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = demo.cpp; sourceTree = "<group>"; };
+		197951CD209C794600E6DF89 /* Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stack.cpp; sourceTree = "<group>"; };
+		197951D0209C7BA300E6DF89 /* TestDrivers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TestDrivers.cpp; sourceTree = "<group>"; };
+		197951D3209C860F00E6DF89 /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		197951BA209B297200E6DF89 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		197951B4209B297200E6DF89 = {
+			isa = PBXGroup;
+			children = (
+				197951BF209B297200E6DF89 /* Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr */,
+				197951BE209B297200E6DF89 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		197951BE209B297200E6DF89 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				197951BD209B297200E6DF89 /* Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		197951BF209B297200E6DF89 /* Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr */ = {
+			isa = PBXGroup;
+			children = (
+				197951CA209C665000E6DF89 /* demo.cpp */,
+				197951C0209B297200E6DF89 /* main.cpp */,
+				197951D0209C7BA300E6DF89 /* TestDrivers.cpp */,
+				197951CD209C794600E6DF89 /* Stack.cpp */,
+				197951D3209C860F00E6DF89 /* Stack.h */,
+			);
+			path = "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		197951BC209B297200E6DF89 /* Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 197951C4209B297200E6DF89 /* Build configuration list for PBXNativeTarget "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr" */;
+			buildPhases = (
+				197951B9209B297200E6DF89 /* Sources */,
+				197951BA209B297200E6DF89 /* Frameworks */,
+				197951BB209B297200E6DF89 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr";
+			productName = "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr";
+			productReference = 197951BD209B297200E6DF89 /* Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		197951B5209B297200E6DF89 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = 210;
+				TargetAttributes = {
+					197951BC209B297200E6DF89 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 197951B8209B297200E6DF89 /* Build configuration list for PBXProject "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 197951B4209B297200E6DF89;
+			productRefGroup = 197951BE209B297200E6DF89 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				197951BC209B297200E6DF89 /* Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		197951B9209B297200E6DF89 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				197951CC209C665000E6DF89 /* demo.cpp in Sources */,
+				197951C1209B297200E6DF89 /* main.cpp in Sources */,
+				197951CF209C794600E6DF89 /* Stack.cpp in Sources */,
+				197951D2209C7BA300E6DF89 /* TestDrivers.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		197951C2209B297200E6DF89 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		197951C3209B297200E6DF89 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		197951C5209B297200E6DF89 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		197951C6209B297200E6DF89 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		197951B8209B297200E6DF89 /* Build configuration list for PBXProject "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				197951C2209B297200E6DF89 /* Debug */,
+				197951C3209B297200E6DF89 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		197951C4209B297200E6DF89 /* Build configuration list for PBXNativeTarget "Assignment 6 - Stack Template and Reverse Polish Notation Calculaotr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				197951C5209B297200E6DF89 /* Debug */,
+				197951C6209B297200E6DF89 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 197951B5209B297200E6DF89 /* Project object */;
+}

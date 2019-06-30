@@ -1,0 +1,8 @@
+7
+10101 Judy Malik 861.68
+10203 Norris Hunt 1500
+20301 Joe Hammil 1496.24
+22222 Joanne Doe 4511.7
+22345 Susan Woo 9646.75
+22345 Norma Patel 2496.24
+31416 Becky Wu 1596.24
