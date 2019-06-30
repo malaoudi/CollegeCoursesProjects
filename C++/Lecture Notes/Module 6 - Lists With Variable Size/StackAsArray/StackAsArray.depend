@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1441921950 source:e:\datastruct\assignments\stackasarray\stackasarray.cpp
+	"StackAsArray.h"
+
+1441921950 e:\datastruct\assignments\stackasarray\stackasarray.h
+	<iostream>
+
+1441922436 source:e:\datastruct\assignments\stackasarray\main.cpp
+	"StackAsArray.h"
+
+1519946330 source:c:\users\cpentcheva481\desktop\stackasarray\main.cpp
+	"StackAsArray.h"
+
+1519946231 c:\users\cpentcheva481\desktop\stackasarray\stackasarray.h
+	<iostream>
+
+1519946440 source:c:\users\cpentcheva481\desktop\stackasarray\stackasarray.cpp
+	"StackAsArray.h"
+

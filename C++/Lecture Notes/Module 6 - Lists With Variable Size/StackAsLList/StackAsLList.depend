@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1441940312 source:e:\datastruct\assignments\stackasllist\stackasllist.cpp
+	"StackAsLList.h"
+
+1441923444 e:\datastruct\assignments\stackasllist\stackasllist.h
+	<iostream>
+
+1441923526 source:e:\datastruct\assignments\stackasllist\main.cpp
+	"StackAsLList.h"
+
+1519943468 source:c:\users\cpentcheva481\desktop\stackasllist\main.cpp
+	"StackAsLList.h"
+
+1519943468 c:\users\cpentcheva481\desktop\stackasllist\stackasllist.h
+	<iostream>
+
+1519943468 source:c:\users\cpentcheva481\desktop\stackasllist\stackasllist.cpp
+	"StackAsLList.h"
+
